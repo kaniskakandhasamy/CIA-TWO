@@ -1,0 +1,13 @@
+1. Use the existing .env, and at the end, replace the word crud with beginner_books_crud.
+
+2. Dont change or do anything inside frontend folder
+
+3. Inside the backend folder, create the package.json file. remember the command??
+
+5.
+
+6. 
+
+7. in root folder i mean (outside of frontend and backend main folder) -> npm run build and check whether two files appear inside backend/public/assets
+
+8. see inside instructions-images for register,login, books crud related task, and render deployment
